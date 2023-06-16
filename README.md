@@ -17,7 +17,7 @@ It is a virtual environment that utilizes the laptop camera to capture the user'
 
 # Requirements
 ## Functional Requirements
--Create a web application using flask. 
+- Create a web application using flask. 
 - User can select the product and add to cart. 
 - System will build the options for trying clothes. 
 - If user selects try the system will open the camera and collect the details of the person.
@@ -56,16 +56,46 @@ It is a virtual environment that utilizes the laptop camera to capture the user'
   Step 3: 
   ```bash
   Pip install pillow
-Pip install pandas
-Pip install Seaborn
-Pip install opencv-contrib-python==3.4.5.20
-Conda install -c conda-forge dlib
-Pip install –only-binary :all: mysqlclient
-Pip install pyotp
-Pip install pyglet
-Pip install flask
-Pip install flask-Socketio
-Pip install imutils
-
   ```
+  ```bash 
+ Pip install pandas
+  ```
+ ```bash 
+ Pip install Seaborn
+  ```
+ ```bash 
+ Pip install opencv-contrib-python==3.4.5.20
+  ```
+ ```bash 
+ Conda install -c conda-forge dlib
+  ```
+ ```bash 
+ Pip install –only-binary :all: mysqlclient
+  ```
+ ```bash 
+ Pip install pyotp
+  ```
+ ```bash 
+ Pip install pyglet
+  ```
+ ```bash 
+ Pip install flask
+  ```
+ ```bash 
+ Pip install flask-Socketio
+  ```
+   ```bash 
+ Pip install imutils
+  ```
+
+
+
+
+
+
+
+
+
+
+
  
